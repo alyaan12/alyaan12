@@ -50,9 +50,7 @@ A sleek legal assistant app featuring pixel-perfect splash and login screens.
   <a href="mailto:alyaan.qadri12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
