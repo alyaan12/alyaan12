@@ -1,7 +1,3 @@
-<!-- Banner with Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alyaan+Qadri+👋;Front-End+Developer+%26+Flutter+Enthusiast;Building+Clean+%26+Modern+Web+Experiences!" alt="Typing SVG" />
-</h1>
 
 ---
 
