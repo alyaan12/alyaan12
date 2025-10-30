@@ -65,10 +65,6 @@ I’m always open to **freelance opportunities** or **collaborations** in:
 
 ---
 
-
-
----
-
 <p align="center">
   ⭐ <b>If you like my work, don’t forget to star a few repositories!</b> ⭐
 </p>
